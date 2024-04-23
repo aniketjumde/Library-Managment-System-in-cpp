@@ -1,0 +1,28 @@
+Student Details
+=========================================
+Name: Aniket Jumde
+Address: JSPM Boys Hostel pune
+Email: aniketjumde23@gmail.com
+Student ID: 16
+--------------------------------------
+Student Details
+=========================================
+Name: pradeep jadhav
+Address: pune
+Email: pradeep44@gmail.com
+Student ID: 103
+--------------------------------------
+Student Details
+=========================================
+Name: Subham desai
+Address: pune
+Email: shubhamdesai34@gmail.com
+Student ID: 100
+--------------------------------------
+Student Details
+=========================================
+Name: Kaushal Agale
+Address: Talegaon dhabade ,pune
+Email: kaushal562@gmail.com
+Student ID: 104
+--------------------------------------
