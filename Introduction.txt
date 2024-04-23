@@ -1,13 +1,46 @@
 # Library-Managment-System-in-cpp
 
-**Introduction**
+Algorithm and flowchart :
 
-This code implements a simple library management system in C++. It includes classes for managing login credentials, book entries, and student information. The program allows users to log in with a username and password, register books in the library, issue books, and register student information.
 
-Login Class : The Login class handles user authentication by verifying the entered username and password.
 
-BookEntry Class : The BookEntry class manages book registration, storing details such as book name, author, publisher, ISBN, edition, and publish year. It provides functions to register books, display registered books, and save book data to a file.
 
-StudentEntry Class : The StudentEntry class manages student information, including name, address, email, and student ID. It provides functions to register student details and save them to a file.
-
-The main function initiates the login process, allowing access to the library management system upon successful authentication. Users can then choose options to register books, issue books, or register student information, with data being saved to respective files for future reference.
+1. Start:
+    This is the beginning of the flowchart.
+2. Input Username and Password:
+    User enters their username and password.
+3. Verify Login:
+    The program verifies the login credentials.
+    If login is successful, go to step 4.
+    If login fails, display "Login failed" message and end the program.
+4. Main Menu:
+     Display the main menu options:
+     Option 1: Register a Book
+     Option 2: Issue Book
+     Option 3: Register Student Information
+     Option 0: Exit
+5. User Choice:
+     If the user chooses Option 1:
+     Go to "Register Book" process.
+     If the user chooses Option 2:
+     Display "Issuing the book" message.
+     Go back to the main menu.
+     If the user chooses Option 3:
+     Go to "Register Student Information" process.
+     If the user chooses Option 0:
+     Display "Code exit" message and end the program.
+     If an invalid option is chosen, display "Invalid option" message and go back to the main menu.
+6. Register Book:
+      Input the number of books to register.
+      For each book:
+      Input book details (name, author, publisher, ISBN, edition).
+      Save book data to file.
+      Display "Book registered successfully" message.
+      Go back to the main menu.
+7. Register Student Information:
+      Input student details (name, address, email, ID).
+      Save student data to file.
+      Display "Student data saved" message.
+      Go back to the main menu.
+8.End: 
+      This is the end of the flowchart.
