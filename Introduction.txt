@@ -2,9 +2,6 @@
 
 Algorithm and flowchart :
 
-
-
-
 1. Start:
     This is the beginning of the flowchart.
 2. Input Username and Password:
